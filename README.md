@@ -1,4 +1,4 @@
-# Your Name
+# Aamina Binte Khurram
 _M.Sc./Ph.D. Applicant in Computer Science_  
 📍 [Your University / City] | ✉️ [your.email@domain.com] | 🌐 [LinkedIn](#) · [GitHub](#)
 
@@ -27,7 +27,7 @@ Explored [short description].
 
 ## Education
 **B.E. in Software Engineering**, National University of Sciences and Technology, Pakistan 
-Class Rank: 3/100 · Graduation: 2025
+Graduation: June, 2025
 
 ---
 
