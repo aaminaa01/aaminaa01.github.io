@@ -1,1 +1,3 @@
-theme: academic-jekyll-theme
+remote_theme: LeNPaul/academic
+plugins:
+  - jekyll-remote-theme
