@@ -1,4 +1,6 @@
 # Aamina Binte Khurram
+![profile](photos/profile.jpg){: style="border-radius:50%;width:120px;"}
+
 _M.Sc./Ph.D. Applicant in Computer Science_  
 📍 [Your University / City] | ✉️ [your.email@domain.com] | 🌐 [LinkedIn](#) · [GitHub](#)
 
