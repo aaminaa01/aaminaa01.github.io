@@ -5,7 +5,7 @@ _M.Sc./Ph.D. Applicant in Computer Science_
 ---
 
 ## About Me
-I am a [your current role, e.g. final-year undergraduate student] at [Your University], with research interests in **network science**, **AI**, and **data-driven social systems**.  
+I am a machine learning engineer, with research interests in **network science**, **AI**, and **data-driven social systems**.  
 My goal is to pursue graduate studies in computer science, focusing on the intersection of computational methods and social applications.
 
 ---
@@ -26,7 +26,7 @@ Explored [short description].
 ---
 
 ## Education
-**B.Sc. in Software Engineering**, [Your University]  
+**B.E. in Software Engineering**, National University of Sciences and Technology, Pakistan 
 Class Rank: 3/100 · Graduation: 2025
 
 ---
@@ -36,4 +36,4 @@ Class Rank: 3/100 · Graduation: 2025
 
 ---
 
-© 2025 Your Name
+© 2025 Aamina Binte Khurram
