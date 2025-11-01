@@ -2,3 +2,9 @@
 ---
 
 @import "main";
+/* === Custom Styles === */
+a.active {
+  font-weight: 700; /* bold text */
+  border-bottom: 2px solid currentColor; /* underline effect */
+  color: #000 !important; /* ensures readability */
+}
