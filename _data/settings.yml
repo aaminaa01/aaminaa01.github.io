@@ -2,7 +2,6 @@ menu:
 
 - {name: 'about', url: '/'}
 - {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 
 people:
