@@ -2,13 +2,9 @@
   <div class="row">
     <div class="col-md-6 text-end social-media-icons">
       {% for item in site.data.settings.social %}
-        {% if item.icon == 'bluesky' %}
-          <a href="{{ item.link }}" target="_blank" rel="noopener" class="ms-3">
-            <i class="fa-brands fa-bluesky"></i>
-          </a>
-        {% else %}
-          <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }}"></i></a>
-        {% endif %}
+        <a href="{{ item.link }}" class="ms-3 fs-5" target="_blank" rel="noopener">
+          <i class="fa-brands fa-{{ item.icon }}"></i>
+        </a>
       {% endfor %}
     </div>
   </div>
