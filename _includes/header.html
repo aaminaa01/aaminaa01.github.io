@@ -9,9 +9,11 @@
   </div>
   <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
     {% for item in site.data.settings.menu %}
+      {% assign current = page.url | remove: '/' %}
+      {% assign target = item.url | remove: '/' %}
       <a 
         href="{{ site.github.url }}{{ item.url }}" 
-        class="me-3 py-2 text-decoration-none {% if page.url == item.url %}active{% endif %}">
+        class="me-3 py-2 text-decoration-none {% if current == target %}active{% endif %}">
         {{ item.name }}
       </a>  
     {% endfor %}
