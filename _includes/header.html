@@ -16,10 +16,11 @@
         class="me-3 py-2 text-decoration-none {% if current == target %}active{% endif %}">
         {{ item.name }}
       </a>  
+    {{page.url}}
+  {{item.url}}
     {% endfor %}
     
-  {{page.url}}
-  {{item.url}}
+ 
   </nav>
 
 </header>
