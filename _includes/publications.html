@@ -1,6 +1,6 @@
 <div class="row g-5 mb-5">
   <div>
-    <h5 class="fw-bold border-bottom pb-3 mb-5">Publications</h5>
+    <h5 class="fw-bold border-bottom pb-3 mb-5">Papers</h5>
     {% if page.title == "Home" %}
       {% for item in site.data.publications.featured %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
@@ -10,5 +10,11 @@
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     {% endif %}
+  </div>
+  <div>
+    <h5 class="fw-bold border-bottom pb-3 mb-5">Abstracts</h5>
+    {% for item in site.data.abstracts.index %}
+      <p>{{ item.name }}</p>
+    {% endfor %}
   </div>
 </div>
