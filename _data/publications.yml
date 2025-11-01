@@ -4,5 +4,5 @@ featured:
 - {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
 
 index:
-- {name: 'Resolving Community Parking Issues: An IoT Enabled Statistical and Deep Learning Approach for Enhanced Urban Parking Management (Tayyib Ul Hassan; Aamina Binte Khurram; Sarah Iqbal; Asad Waqar Malik; Muhammad Moazam Fraz)', url: 'https://ieeexplore.ieee.org/abstract/document/10838440'}
-- {name: 'Fine-Tuning Large Language Models for Optimal Resource Management in D2D Wireless Networks (Tayyib Ul Hassan; Aamina Binte Khurram; Attiya Waqar; Arsalan Ahmad; Syed Ali Hassan; Haejoon Jung)', url: 'https://ieeexplore.ieee.org/abstract/document/11161784'}
+- {name: 'Resolving Community Parking Issues: An IoT Enabled Statistical and Deep Learning Approach for Enhanced Urban Parking Management (Tayyib Ul Hassan; Aamina Binte Khurram*; Sarah Iqbal; Asad Waqar Malik; Muhammad Moazam Fraz)', url: 'https://ieeexplore.ieee.org/abstract/document/10838440'}
+- {name: 'Fine-Tuning Large Language Models for Optimal Resource Management in D2D Wireless Networks (Tayyib Ul Hassan; Aamina Binte Khurram*; Attiya Waqar; Arsalan Ahmad; Syed Ali Hassan; Haejoon Jung)', url: 'https://ieeexplore.ieee.org/abstract/document/11161784'}
