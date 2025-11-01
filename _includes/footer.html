@@ -6,10 +6,11 @@
           <a href="{{ item.link }}" class="ms-3 fs-5" target="_blank" rel="noopener">
             <i class="fa-brands fa-{{ item.icon }}"></i>
           </a>
-        {% if item.icon == 'paper-plane' %}
+        {% else %}
           <a href="{{ item.link }}" class="ms-3 fs-5" target="_blank" rel="noopener">
             <i class="fa-solid fa-{{ item.icon }}"></i>
           </a>
+      {% endif %}
       {% endfor %}
     </div>
   </div>
