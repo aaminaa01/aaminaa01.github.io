@@ -3,8 +3,8 @@
     <div class="col-md-6 text-end social-media-icons">
       {% for item in site.data.settings.social %}
         {% if item.icon == 'bluesky' %}
-          <a href="{{ item.link }}" target="_blank" rel="noopener">
-            <img src="{{ site.baseurl }}/assets/icons/bluesky.svg" alt="Bluesky" width="20" height="20">
+          <a href="{{ item.link }}" target="_blank" rel="noopener" class="ms-3">
+            <i class="fa-brands fa-bluesky"></i>
           </a>
         {% else %}
           <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }}"></i></a>
