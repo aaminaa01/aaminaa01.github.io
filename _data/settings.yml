@@ -20,6 +20,8 @@ social:
 - {icon: 'bluesky', link: 'https://bsky.app/profile/aaminaaaa.bsky.social'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/aamina-binte-khurram/'}
 - {icon: 'medium', link: 'https://medium.com/@aaminew'}
+- {icon: 'envelope', link: 'mailto:aaminabintekhurram@gmail.com'}
+
 
 contacts:
 - {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
