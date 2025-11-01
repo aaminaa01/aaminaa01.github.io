@@ -2,7 +2,7 @@
   <div class="row">
     <div class="col text-center social-media-icons">
       {% for item in site.data.settings.social %}
-      {% if item.icon == 'bluesky' or item.icon == 'github' or item.icon == 'linkedin' or item.icon == 'medium' %}
+      {% if item.icon == 'bluesky' or item.icon == 'github' or item.icon == 'linkedin' or item.icon == 'medium' or item.icon == 'google-scholar' %}
           <a href="{{ item.link }}" class="ms-3 fs-5" target="_blank" rel="noopener"><i class="fa-brands fa-{{ item.icon }}"></i></a>
         {% else %}
           <a href="{{ item.link }}" class="ms-3 fs-5" target="_blank" rel="noopener"><i class="fa-solid fa-{{ item.icon }}"></i></a>

@@ -1,9 +1,8 @@
 menu:
-- {name: 'people', url: '/people'}
+
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
 
 people:
 - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
@@ -17,6 +16,7 @@ courses:
 
 social:
 - {icon: 'github', link: 'https://github.com/aaminaa01'}
+- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AKzYXQ3_Eq7gv8XIz5-HT32vZnfBsoJOV22ZnL8HfSHb1D7xCSQ34RuO_sQg-pj5ckIgSdMKMCUDaiERz6MgKQ&user=tqisD5MAAAAJ'}
 - {icon: 'bluesky', link: 'https://bsky.app/profile/aaminaaaa.bsky.social'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/aamina-binte-khurram/'}
 - {icon: 'medium', link: 'https://medium.com/@aaminew'}
